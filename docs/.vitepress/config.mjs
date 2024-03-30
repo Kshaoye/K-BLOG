@@ -17,8 +17,8 @@ export default defineConfig({
       {
         text: 'Other',
         items: [
-          { text: 'options-1', link: '/' },
-          { text: 'options-2', link: '/' }
+          { text: '毕业设计', link: '/public/Thesis' },
+          { text: 'About Me', link: '/public/AboutMe' }
         ]
       }
     ]
