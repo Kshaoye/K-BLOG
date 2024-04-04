@@ -2,10 +2,12 @@
 layout: home
 
 hero:
-  name: Kevin Zhou
-  text: Teaching and Research Diary
-  tagline: 这里记录我的教研之路 (还没有什么内容，慎点)
-
+  name: Zhou-Kai
+  text: 第三代K-BLOG
+  tagline: 分享一些实用的小知识
+  image:
+    src: /img/redhat.png
+    alt: 网站的 logo 图片
   actions:
     - theme: brand
       text: Linux
@@ -16,11 +18,11 @@ hero:
 features:
   - icon: 🐧
     title: Linux
-    details: Primarily Regarding Enterprise Edition Linux
+    details: 主要分享一些企业版Linux相关内容
   - icon: 🐬
     title: MySQL
-    details: Mainly About Error Messages Frequently Encountered by Beginners
-  - icon: 🤖
-    title: AIGC
-    details: "Not started yet"
+    details: 主要分享一些MySQL相关内容
+  - icon: 👀
+    title: Other
+    details: 其他内容
 ---
