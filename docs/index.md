@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: Linux
-      link: /public/Linux
+      link: /public/Linux/index
     - theme: brand
       text: MySQL
-      link: /public/MySQL
+      link: /public/MySQL/index
 features:
   - icon: 🐧
     title: Linux
