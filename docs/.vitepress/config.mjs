@@ -37,6 +37,7 @@ function sidebarLinux() {
       items: [
         { text: 'Linux命令大全', link: 'https://www.linuxcool.com/' },
         { text: 'Linux应该怎么学', link: '/public/Linux/HowtoLearn'},
+        { text: 'Linux软件包管理', link: '/public/Linux/Package/index'},
       ]
     },
   ]

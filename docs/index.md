@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: Zhou-Kai
-  text: 第三代K-BLOG
+  text: 专注于系统运维与数据库运维
   tagline: 分享一些实用的小知识
   image:
     src: /img/redhat.png
