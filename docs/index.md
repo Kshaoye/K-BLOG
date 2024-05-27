@@ -4,8 +4,8 @@ title: Zhou-Kai
 
 hero:
   name: Zhou-Kai
-  text: 专注于系统运维与数据库运维
-  tagline: 分享一些实用的小知识
+  text: 教学相长，持续改进
+  tagline: 分享一些日常教学过程中总结整理的实用小知识
   image:
     src: /img/redhat.png
     alt: 网站的 logo 图片
