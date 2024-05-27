@@ -13,3 +13,4 @@ layout: doc
 讲的简单易懂，适合快速上手
 
 2、[《鸟哥的Linux私房菜》](http://cn.linux.vbird.org/)
+讲的非常细致，适合深入学习
