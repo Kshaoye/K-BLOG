@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Kevin-Zhou",
   description: "Kevin Zhou's Teaching and Research Dairy",
+  //titleTemplate: false,   //不自动附加title
   base: '/',
   head: [
     ['link', {rel: 'icon', href: '/favicon.ico'}]

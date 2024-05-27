@@ -1,5 +1,6 @@
 ---
 layout: doc
+title: MySQL
 ---
 ​	长期位列DB-Engines Ranking前三的开源数据库，同时也是前三中唯一的开源数据库。
 

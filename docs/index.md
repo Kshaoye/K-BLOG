@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Zhou-Kai
 
 hero:
   name: Zhou-Kai

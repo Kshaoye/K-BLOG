@@ -1,7 +1,7 @@
 ---
 layout : doc
 ---
-## RPM
+# RPM
 
 早期是Redhat Package Manager红帽包管理器的缩写
 
@@ -65,9 +65,9 @@ el7：Redhat Enterprise Linux7	红帽企业版7系列
 
 无平台 noarch
 
-### 安装软件
+## 安装软件
 
-#### rpm -ivh 软件名.rpm
+### rpm -ivh 软件名.rpm
 
 > 选项：
 >
@@ -79,49 +79,49 @@ el7：Redhat Enterprise Linux7	红帽企业版7系列
 >
 > 例子：LinuxQQ
 
-### 更新软件
+## 更新软件
 
-#### rpm -Uvh 软件名.rpm
+### rpm -Uvh 软件名.rpm
 
-#### rpm -Fvh 软件名.rpm
+### rpm -Fvh 软件名.rpm
 
 U:安装软件时，如果有旧版本的软件包，则“升级”，如果不存在旧版本的软件，则执行安装
 
 F:安装软件时，如果有旧版本的软件包，则“升级”，如果不存在旧版本的软件，则不执行安装
 
-### 卸载软件
+## 卸载软件
 
-#### rpm -e 软件名
+### rpm -e 软件名
 
-### 查看软件包
+## 查看软件包
 
-#### -q 查看是否安装
+### -q 查看是否安装
 
 例如：rpm -q bind
 
-#### -c 查看软件的配置文件
+### -c 查看软件的配置文件
 
 例如：rpm -qc sudo
 
-#### -a 查看所有已安装的软件
+### -a 查看所有已安装的软件
 
 例如：rpm -qa | more
 
-#### -i 显示软件包的详细信息
+### -i 显示软件包的详细信息
 
 例如：rpm -qi grep
 
-#### -f 查看某个文件属于哪个软件包
+### -f 查看某个文件属于哪个软件包
 
 例如：rpm -qf /etc/yum.conf
 
-#### -l（小写L）列出软件包的相关文件
+### -l（小写L）列出软件包的相关文件
 
 例如：rpm -ql yum
 
-#### --nodeps 忽略依赖
+### --nodeps 忽略依赖
 
-#### --force 强制
+### --force 强制
 
 ---
 
