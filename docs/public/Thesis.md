@@ -20,11 +20,11 @@ layout: doc
 
 ## Q2：摘要怎么写？
 
-来自厦门大学的B站up主”读论文的麦小哲“倾情奉献
+来自厦门大学的B站up主"读论文的麦小哲"倾情奉献
 
 <iframe src="//player.bilibili.com/player.html?aid=583087658&bvid=BV1kz4y1R7ut&cid=188562787&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-文字初稿整理：”超高校级的谈话窗口“
+文字初稿整理："超高校级的谈话窗口"
 
 （部分内容有细微修正）
 
