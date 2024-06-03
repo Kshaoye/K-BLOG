@@ -39,6 +39,7 @@ function sidebarLinux() {
         { text: 'Linux命令大全', link: 'https://www.linuxcool.com/' },
         { text: 'Linux应该怎么学', link: '/public/Linux/HowtoLearn'},
         { text: 'Linux软件包管理', link: '/public/Linux/Package/index'},
+        { text: 'md5sum命令', link: '/public/Linux/md5'},
         { text: '初学Linux大冒险', link: '/public/Linux/Game/index'},
       ]
     },
